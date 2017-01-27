@@ -1,0 +1,22 @@
+{
+  "name": "mapdatavisualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Docwali777/mapdatavisualization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Docwali777/mapdatavisualization/issues"
+  },
+  "homepage": "https://github.com/Docwali777/mapdatavisualization#readme",
+  "dependencies": {
+    "topojson": "^2.2.0"
+  }
+}
