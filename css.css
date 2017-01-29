@@ -1,6 +1,22 @@
-
-.map {
-  fill: skyblue;
-  stroke: black;
-  stroke-width: 1px;
+path {
+  fill: rgba(255,255,255, 0);
+  stroke: #fff;
 }
+
+
+.over {
+  fill: steelblue;
+  r: 3px
+}
+
+.over:hover {
+  fill: red
+}
+
+.over:hover{
+  fill: green;
+  r: 10px
+}
+ svg {
+   background: black
+ }
